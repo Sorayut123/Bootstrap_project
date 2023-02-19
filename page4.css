@@ -1,0 +1,83 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: url(https://scontent.fkkc4-2.fna.fbcdn.net/v/t1.15752-9/328459310_913730273138804_7343389997944708670_n.png?_nc_cat=105&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeGqTOAfZZmnl4xP2WYGrjXfDzsvaxMJTGAPOy9rEwlMYMkKOmMzq8V780N39J4JdzGhtFNmXD1GEe7hPQd7Zp5w&_nc_ohc=PGPwx3g_D1kAX8xNIo7&_nc_oc=AQlQJ_99_JgLZ_U0PDfP2WS6ysUG3iBx3EjDpa5ALxN4l6v4ptilF14j0-m-pyPQ5cg4nG7w_ELXQ4i-JN_Myxfw&tn=BYaqZtbg7ahD68WN&_nc_ht=scontent.fkkc4-2.fna&oh=03_AdTYX8DcTmBCg14mniF3lysR7C4YN73ahr0JH1zo8049DQ&oe=64031212);
+    background-repeat: repeat-x;
+    background-size: 1200px;
+}
+#table{
+    width: 1150px;
+    height: 850px;
+    background-color: rgb(230, 230, 230);
+    margin-left: 240px;
+    margin-top: -1400px;
+    border: 1px solid; 
+}
+#calendar{
+    width: 1160px;
+    height: 50px;
+    background-color: rgb(230, 230, 230);
+    margin-left: 230px;
+    margin-top: 0px;
+    border: 0.5px solid;
+}
+#tableCalendar{
+    width: 1160px;
+    height: 50px;
+    background-color: rgb(230, 230, 230);
+    margin-left: 230px;
+    margin-top: -950px;
+    border: 1px solid;
+}
+#box{
+    width: 230px;
+    height: 1500px;
+    background-color:rgb(50, 50, 54);
+    margin-left: 0px;
+    margin-top: 0px;
+    border: 1px solid;    
+}
+table, th, td {
+    border: 1px solid;
+}
+#name{
+    color: rgb(255, 255, 255);
+}
+#imagename{
+    color: rgb(255, 255, 255);
+}
+#mainmenu{
+    width: 232px;
+    height: 25px;
+    color: rgb(0, 0, 0);
+    border: 1px solid;
+    margin-left: -15px;
+    background-color: #d9d9d9;
+}
+#boxCaleadar{
+    
+    height: 25px;
+    margin-top: -50px;
+    margin-left: 70px;
+    
+}
+#buttonNext{
+    margin-left: 500px;
+}
+#imagemenu{
+    margin-left: 10px;
+    display: flex;
+}
+#logo{
+    margin-left: 30px;
+    margin-top: 5px;
+}
+#home{
+    margin-left: 950px;
+   
+}
+#year{
+    margin-left: 10px;
+}

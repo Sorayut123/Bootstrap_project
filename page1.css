@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(https://scontent.fkkc4-2.fna.fbcdn.net/v/t1.15752-9/328459310_913730273138804_7343389997944708670_n.png?_nc_cat=105&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeGqTOAfZZmnl4xP2WYGrjXfDzsvaxMJTGAPOy9rEwlMYMkKOmMzq8V780N39J4JdzGhtFNmXD1GEe7hPQd7Zp5w&_nc_ohc=7h3B9EWusgEAX_SfXRb&_nc_oc=AQkYC6YNH5NaSG1Rsii6f5Mdeh7FYw01Q9HEY2zw6aGZfV9iuBAWqWef5NBxgPkp6k70QlC-2pdozOtVboB9JQdO&_nc_ht=scontent.fkkc4-2.fna&oh=03_AdQ1FI-31XXqfqv6BeRvE9cVXuutaMmnPvgS9irIzcMqWQ&oe=64070692);
+    background-repeat: repeat-x;
+    background-size: 30%;
+}
+#logo{
+    margin-top: 50px;
+}
+#title{
+    font-size: 40px;
+}
+/* card1 */
+#card1{
+    width: 400px;
+    height: 150px;
+    border-radius: 15px 15px 15px 15px;
+    background-color: #C69A00;
+    box-shadow: 0 10px 8px 0 rgba(0, 0, 0, 0.2), 0 10px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#button1{
+    width: 400px;
+    background-color: #B08B0A;
+    margin-top: 33px;
+    border-radius: 15 15 0 0;
+}
+/* card2 */
+#card2{
+    width: 400px;
+    height: 150px;
+    border-radius: 15px 15px 15px 15px;
+    background-color: #0FB953;
+    box-shadow: 0 10px 8px 0 rgba(0, 0, 0, 0.2), 0 10px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#button2{
+    width: 400px;
+    background-color: #12A14B;
+}
+/* card3 */
+#card3{
+    width: 400px;
+    height: 150px;
+    border-radius: 15px 15px 15px 15px;
+    background-color: #1B99E0;
+    box-shadow: 0 10px 8px 0 rgba(0, 0, 0, 0.2), 0 10px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#button3{
+    width: 400px;
+    background-color: #1E7ED7;
+}
